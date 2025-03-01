@@ -1,0 +1,16 @@
+{
+    "Movies": {
+        "Harry Potter": {
+            "year": 1997,
+            "rating": 100.0
+        },
+        "The Matrix": {
+            "year": 2000,
+            "rating": 99.0
+        },
+        "GoodWill Hunting": {
+            "year": 1997,
+            "rating": 10.0
+        }
+    }
+}
