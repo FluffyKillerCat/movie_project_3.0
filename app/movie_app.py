@@ -59,6 +59,7 @@ class MovieApp:
                 if 0 <= user_command <= 11:
 
                     if user_command == 1:
+                        pass
 
 
 
