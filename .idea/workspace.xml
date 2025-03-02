@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6097f22a-242e-42be-9d3b-ca514245f735" name="Changes" comment="fixed file name" />
+    <list default="true" id="6097f22a-242e-42be-9d3b-ca514245f735" name="Changes" comment="fixed .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +91,7 @@
       <updated>1740832278707</updated>
       <workItem from="1740832279789" duration="2436000" />
       <workItem from="1740834812117" duration="9551000" />
-      <workItem from="1740921926059" duration="9891000" />
+      <workItem from="1740921926059" duration="10211000" />
     </task>
     <task id="LOCAL-00001" summary="fixed file name">
       <option name="closed" value="true" />
@@ -101,7 +101,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740947968432</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed .gitignore">
+      <option name="closed" value="true" />
+      <created>1740948098382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740948098382</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed .gitignore">
+      <option name="closed" value="true" />
+      <created>1740948131322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740948131322</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed .gitignore">
+      <option name="closed" value="true" />
+      <created>1740948247020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740948247020</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed .gitignore">
+      <option name="closed" value="true" />
+      <created>1740948313966</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740948313966</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +141,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed file name" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed file name" />
+    <MESSAGE value="fixed .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed .gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/movie_project_3_0$movie_app.coverage" NAME="movie_app Coverage Results" MODIFIED="1740947289313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
