@@ -1,16 +1,19 @@
 {
     "Movies": {
-        "Harry Potter": {
-            "year": 1997,
-            "rating": 100.0
+        "Batman": {
+            "rating": "7.5",
+            "year": "1989",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg"
         },
-        "The Matrix": {
-            "year": 2000,
-            "rating": 99.0
+        "Things Heard & Seen": {
+            "rating": "5.3",
+            "year": "2021",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTFlOThmZWYtYTk4Yi00MzFlLWJhOTEtMTU0NTcxNWJiZjRhXkEyXkFqcGc@._V1_SX300.jpg"
         },
-        "GoodWill Hunting": {
-            "year": 1997,
-            "rating": 10.0
+        "Harry Potter and the Deathly Hallows: Part 2": {
+            "rating": "8.1",
+            "year": "2011",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_SX300.jpg"
         }
     }
 }
