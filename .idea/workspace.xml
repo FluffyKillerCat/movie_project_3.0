@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6097f22a-242e-42be-9d3b-ca514245f735" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sf/sf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Database/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/movie_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/movie_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/_static/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/movie_stats.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/istorage.py" beforeDir="false" afterPath="$PROJECT_DIR$/storage/istorage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/storage_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/storage/storage_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/storage_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/storage/storage_json.py" afterDir="false" />
-    </list>
+    <list default="true" id="6097f22a-242e-42be-9d3b-ca514245f735" name="Changes" comment="fixed file name" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FluffyKillerCat/movie_project_3.0.git",
+    "accountId": "aa08fc69-9bb1-46a5-8134-4162be6ce5ab"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -94,12 +85,25 @@
       <updated>1740832278707</updated>
       <workItem from="1740832279789" duration="2436000" />
       <workItem from="1740834812117" duration="9551000" />
-      <workItem from="1740921926059" duration="9588000" />
+      <workItem from="1740921926059" duration="9891000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed file name">
+      <option name="closed" value="true" />
+      <created>1740947968432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740947968432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed file name" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/movie_project_3_0$movie_app.coverage" NAME="movie_app Coverage Results" MODIFIED="1740947289313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
